@@ -145,3 +145,10 @@ a {
 a:hover, a:focus, a:active {
     color: #824027;
 }
+.skill-width{
+    height: 1.5em;
+
+}
+.list-inline-item{
+    width: 2em;
+}
