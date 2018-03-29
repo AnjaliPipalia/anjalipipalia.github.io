@@ -155,3 +155,6 @@ a:active, a:focus, a:hover {
 .list-inline-item{
     width: 2em;
 }
+.underline{
+    text-decoration: underline;
+}
